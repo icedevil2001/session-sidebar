@@ -1,0 +1,12 @@
+{
+  "name": "session-sidebar",
+  "owner": { "name": "icedevil2001" },
+  "description": "A Claude Code mod: links, things to know and action items for the session, in a right-hand sidebar.",
+  "plugins": [
+    {
+      "name": "session-sidebar",
+      "source": "./",
+      "description": "A right-hand sidebar for the session: every link mentioned, things to know, and action items you tick off into a collapsible Done list."
+    }
+  ]
+}

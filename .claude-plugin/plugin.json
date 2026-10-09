@@ -1,0 +1,7 @@
+{
+  "name": "session-sidebar",
+  "version": "0.1.0",
+  "description": "A right-hand sidebar for the session: every link mentioned, things to know, and action items you tick off into a collapsible Done list.",
+  "author": { "name": "icedevil2001" },
+  "types": "./types/index.d.ts"
+}
